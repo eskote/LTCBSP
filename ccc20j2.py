@@ -1,3 +1,5 @@
+# ccc08j2
+
 p = int(input())
 n = int(input())
 r = int(input())

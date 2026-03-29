@@ -1,4 +1,4 @@
-# dmoj_ccc08j2
+# ccc08j2
 
 button = 0
 

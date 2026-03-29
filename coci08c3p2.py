@@ -1,4 +1,4 @@
-# dmoj_coci08c3p2
+# coci08c3p2
 
 sentence = input()
 
