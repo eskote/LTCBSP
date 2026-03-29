@@ -39,13 +39,7 @@ for note in song:
     else:
         start_of_measure = False
 
-# print(f"Total C notes: {c_major}")
-# print(f"Total A notes: {a_minor}")
-# if last_note is None:
-#      print("Last note is null")
-# else:
-#     print(f"Last tone is: {last_note}")
-
+# Evaluate Results
 if c_major > a_minor:
     print("C-dur")
 elif c_major < a_minor:

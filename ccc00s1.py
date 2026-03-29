@@ -41,10 +41,6 @@ while quarters > 0:
     if m1 == 35:
         quarters += 30
         m1 = 0
-        #print(f"Machine 1 has paid out!")
-    #print(f"The number of plays is: {plays}")
-    #print(f"The number of quarters is: {quarters}")
-    #print(f"Machine 1 pays out in {(35 - m1)} plays")
     m2 += 1
     quarters -= 1
     plays += 1
@@ -53,10 +49,6 @@ while quarters > 0:
     if m2 == 100:
         quarters += 60
         m2 = 0
-        #print(f"Machine 2 has paid out!")
-    #print(f"The number of plays is: {plays}")
-    #print(f"The number of quarters is: {quarters}")
-    #print(f"Machine 2 pays out in {(100 - m2)} plays")
     m3 += 1
     quarters -= 1
     plays += 1
@@ -65,9 +57,5 @@ while quarters > 0:
     if m3 == 10:
         quarters += 9
         m3 = 0
-        #print(f"Machine 3 has paid out!")
-    #print(f"Machine 3 pays out in {(10 - m3)} plays")
-    #print(f"The number of plays is: {plays}")
-    #print(f"The number of quarters is: {quarters}")
-#
+
 print(f"Martha plays {plays} times before going broke.")

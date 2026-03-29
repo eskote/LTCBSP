@@ -1,4 +1,4 @@
-# English or French DMOJ ccc11s1
+# ccc11s1
 
 # Number of lines of text input
 while True:

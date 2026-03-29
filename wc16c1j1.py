@@ -1,4 +1,4 @@
-# DMOJ Problem wc16c1j1 A Spooky Season
+# wc16c1j1
 
 # S (2 ≤ S ≤ 20)
 # spoo..ooooky S os

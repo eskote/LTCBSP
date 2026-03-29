@@ -1,4 +1,4 @@
-# Data Plan DMOJ coci16c1p1
+# coci16c1p1
 
 while True:
     monthly_mb = int(input())

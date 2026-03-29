@@ -1,6 +1,4 @@
-# DMOJ Problem wc15c2j1 A New Hope
-
-# N (1 ≤ N ≤ 5)
+#  wc15c2j1
 
 N = int(input())
 
