@@ -8,7 +8,7 @@ in_line = 0
 allowed = {'TAKE', 'SERVE', 'CLOSE', 'EOF'}
 
 next_number = int(input())
-if not (0 < next_number < 999):
+if not (0 < next_number < 1000):
     quit()
 
 while activity != 'EOF':
@@ -33,8 +33,8 @@ while activity != 'EOF':
         in_line = 0
         checked_out = 0
 
-    # Reset next number if 999
-    if next_number == 999:
+    # Reset next number if 1000
+    if next_number == 1000:
         next_number = 1
     
     if activity == 'EOF':
